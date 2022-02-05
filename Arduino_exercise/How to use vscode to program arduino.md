@@ -1,4 +1,4 @@
-# How to use the vscode to change
+# How to use the vscode for arduino
 
 >As we all know, the arduino IDE is great for beginners. However, if we want to program a larger project, the IDE is not suitable.  
 Sometime we need to debug or look up some function,  maybe we can use the VScode to develop it.  
