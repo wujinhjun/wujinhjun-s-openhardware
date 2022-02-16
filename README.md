@@ -4,4 +4,4 @@ Last semester, I was exposed to open source hardware for the first time and find
 As a designer, I try to learn a lot of interesting thing, maybe including Arduino, Maixduino, Raspberry Pi and some new thing.  
 Hopefully I can achieve my dream.  
 ********
-1. [This is Arduino](https://github.com/wujinhjun/wujinhjuns-openhardware)
+1. [This is Arduino](https://github.com/wujinhjun/wujinhjuns-openhardware/tree/main/Arduino_exercise)
