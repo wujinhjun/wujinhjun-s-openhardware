@@ -73,3 +73,12 @@ And the `"C:/Users/wujinhjun/Documents/Arduino/libraries"` is path of the .ZIP L
 
 6. The process is finished
 ![](https://github.com/wujinhjun/wujinhjuns-openhardware/blob/main/pic/arduino/pic_1/vsforarduino%20(7).png)  
+****
+### Q&A:
+1. Where is the `Serial Monitor`:  
+   You can find a plug icon in the bottom right conner. By clicking on it, the serial will be opened.  
+   ![](https://github.com/wujinhjun/wujinhjuns-openhardware/blob/main/pic/arduino/pic_1/Inkedvsforarduino(8)_LI.jpg)  
+2. How to send text in Serial:  
+   Press `F1`，and then search the `serial`, choose the `Send Text to serial`. Then you can send text to you arduino.  
+   Of course, this is inconvenient. So, I usually use other tools for serial debugging.  
+   ![](https://github.com/wujinhjun/wujinhjuns-openhardware/blob/main/pic/arduino/pic_1/Inkedvsforarduino(9)_LI.jpg)  
