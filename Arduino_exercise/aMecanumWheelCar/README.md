@@ -4,5 +4,6 @@ In the winter vacation, I want to make a remote control car. At the same time, I
 
 It is worth mentioning that because I can't find sensors in my hometown, this car only has basic metion logic for the time being.  
 
-[This is the car controled by PS2]()
+[This is the car controled by PS2]()  
+
 [This is the car controled by Blueteeth]()
