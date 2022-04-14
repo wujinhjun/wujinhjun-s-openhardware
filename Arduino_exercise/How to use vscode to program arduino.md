@@ -6,7 +6,7 @@ OK. The key is how to use VScode(about it, if you are interested in learning abo
 ****
 
 1. Install the vscode from the micrsoft  [download the vscode](https://code.visualstudio.com/)  :  
-This is easy, yes? If you need to learn the install of vscode, I think there are a lot of tutorials on this aspect on the Internet. I won't dwell on it.  
+This is easy, right? If you need to learn the install of vscode, I think there are a lot of tutorials on this aspect on the Internet. I won't dwell on it.  
   
 2. Install the expand for arduino in vscode:  
 We can press the key:`Ctrl`+`Shift`+`X`, open the extension and search arduino. Then, install it.  
